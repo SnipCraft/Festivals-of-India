@@ -60,6 +60,11 @@ This project is intentionally simple and unstyled (no CSS/JS), as it was develop
 
 ---
 
+## 🔗 Live Link
+https://snipcraft.github.io/Festivals-of-India
+
+---
+
 ## 📜 License
 
 This project is for **educational purposes only**. All references, images, and data belong to their respective owners and are used here under fair use.
